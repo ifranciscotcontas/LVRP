@@ -5,12 +5,21 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Gestão de Expediente", "Gestão de Expediente\Gestão de Expediente.ssmssqlproj", "{C8DEF1F0-C024-4AB6-A5EC-4A11F7E91DDD}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TC_ReunioesPlenarias", "TC_ReunioesPlenarias\TC_ReunioesPlenarias.ssmssqlproj", "{7119347E-FB59-4E03-A0AB-967D6ED0697F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TC_PrestacaoContas", "TC_PrestacaoContas\TC_PrestacaoContas.ssmssqlproj", "{45C1CC30-3B7E-44B3-B4E6-D99B837BDD29}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TC_SorteioProcessos", "TC_SorteioProcessos\TC_SorteioProcessos.ssmssqlproj", "{C2B36506-82E8-44B1-A19D-D86C1214CEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C8DEF1F0-C024-4AB6-A5EC-4A11F7E91DDD}.Default|Default.ActiveCfg = Default
+		{7119347E-FB59-4E03-A0AB-967D6ED0697F}.Default|Default.ActiveCfg = Default
+		{45C1CC30-3B7E-44B3-B4E6-D99B837BDD29}.Default|Default.ActiveCfg = Default
+		{C2B36506-82E8-44B1-A19D-D86C1214CEF0}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
